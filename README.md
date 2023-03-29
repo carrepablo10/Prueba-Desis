@@ -1,5 +1,5 @@
 # Prueba-Desis
-Desarrollo de formulario de registro de votaciones
+##Desarrollo de formulario de registro de votaciones
 Prerrequisitos 📋
 -Visual studio code -Base de datos MySql -Version PHP Version 8.1.6 -Version mysql 10.4.24-MariaDB
 
